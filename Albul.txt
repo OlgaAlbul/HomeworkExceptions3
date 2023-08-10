@@ -1,0 +1,2 @@
+UserData{name=[Albul, Olga, Sergeevna], birthday='27.05.1988', telefoneNumber=89826397751, sex=f}
+UserData{name=[Albul, Anton, Mikhailovich], birthday='21.11.1988', telefoneNumber=89826380841, sex=m}
